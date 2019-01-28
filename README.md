@@ -42,12 +42,12 @@ The Japanese band falls in 2017 because the underlying dataset didn't report any
 The first chart which is taken directly from OECD's website presents a bar chart with Debt to GDP ratios for OECD's member countries for the year 2015. It:
 * captures data for just a single year (2015), so it seems to convey complete information about that year
 * neatly helps compare respective ratios across countries
-* gives out actual ratio values for each country
+* gives out actual ratio values for each country/
 The second chart is a beeswarm plot created using RAWGraphs. It:
 * captures all the available data
 * gives a sense of the completeness of data (with blanks present wherever data wasn't reported)
 * gives a comparative sense of how debt ratios are, but isn't informative at all w.r.t the actual ratios.
-* is hard to follow given the dimensions of the chart, so a user has to scroll up and down to view it holistically.
+* is hard to follow given the dimensions of the chart, so a user has to scroll up and down to view it holistically./
 The third chart is a bump chart which was created using RAWGraphs. Its purpose is to draw the user's attention to Japan's high Debt to GDP ratio throughout 1996 - 2016 time frame. This particular plot was selected because (firstly, not all interesting charts could work with this dataset) it allowed for a neat way for showing how the debt to GDP ratios for different countries evolved over a linear span on time. A major drawback of a bump chart is its inability to communicate actual magnitudes, so I relied on reference lines (100%, 150%, 200% ratio values) to help the reader visualize how a nation is performing. 
 Critique below. The chart: 
 * captures information for all data years
