@@ -39,6 +39,9 @@ Source: [OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2
 The Japanese band falls in 2017 because the underlying dataset didn't report any data for Japan in 2017. 
 
 ## Step 4 - Note on how the visualizations compare:
+All the following three visualizations work with the same dataset taken from [OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 28 January 2019)](https://data.oecd.org/gga/general-government-debt.htm). The first visualization works with a subset of the data only focusing on the year 2015. 
+The dataset gives out the Debt to GDP ratio as a percentage (debt as a percentage of the GDP) for OECD's member nations from 1995-2017 at a yearly level. Usually, Debt to GDP ratio (or percentage) is supposed to be an indicator of a nation's ability to pay its debts, but there isn't an ideal range for the indicator as different countries can have different capabilities to repay their debts.
+
 ### Comments on first chart (present on OECD's website)
 The first chart presents a bar chart with Debt to GDP ratios for OECD's member countries for the year 2015. It:
 * captures data for just a single year (2015), so it seems to convey complete information about that year
