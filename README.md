@@ -64,6 +64,6 @@ Critique below. The chart:
 ## Homework 3 - Women Representation by Party (in US House of Representatives)
 ### Original visualization
 The original visualization was from a [tweet](https://twitter.com/Spelk24/status/1049054474411675658) by a student who was performing exploratory data analysis on data present in a report by Congressional Research Service [linked here](https://fas.org/sgp/crs/misc/RL30261.pdf)
-[](https://pbs.twimg.com/media/Do79etiUcAA9IgS.jpg)
+![](https://pbs.twimg.com/media/Do79etiUcAA9IgS.jpg)
 
 
