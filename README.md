@@ -80,3 +80,4 @@ To this end, I made the following wireframes:
 
 
 ### Final visualization:
+![](/Women Representation by Party.png)
