@@ -80,4 +80,4 @@ To this end, I made the following wireframes:
 
 
 ### Final visualization:
-![](/Women Representation by Party.png)
+![](https://raw.githubusercontent.com/sancsaini/StoryTellingWithData/master/Women%20Representation%20by%20Party.png)
