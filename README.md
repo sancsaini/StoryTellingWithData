@@ -63,7 +63,20 @@ Critique below. The chart:
 
 ## Homework 3 - Women Representation by Party (in US House of Representatives)
 ### Original visualization
-The original visualization was from a [tweet](https://twitter.com/Spelk24/status/1049054474411675658) by a student who was performing exploratory data analysis on data present in a report by Congressional Research Service [linked here](https://fas.org/sgp/crs/misc/RL30261.pdf)
+The original visualization was from a [tweet](https://twitter.com/Spelk24/status/1049054474411675658) by a student who was performing exploratory data analysis on data present in a report by Congressional Research Service [linked here](https://fas.org/sgp/crs/misc/RL30261.pdf), which found its way onto the [Makeover Monday website](http://www.makeovermonday.co.uk/data/data-sets-2018/) which encourages people to .
 ![](https://pbs.twimg.com/media/Do79etiUcAA9IgS.jpg)
 
 
+### Changes to the visualization
+While the visualization is a very beautiful one to begin with, it has eliminated some information that may add to a reader's understanding:
+* additional labels for some of the prior years to give numbers for prior years
+* an indication for what the maximum percentage representation for a particular party was and when it happened
+####
+To this end, I made the following wireframes:
+
+
+
+
+
+
+### Final visualization:
