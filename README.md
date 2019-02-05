@@ -86,3 +86,4 @@ I tested the solution with two Indian students (1 male, 1 female) from the Infor
 ### Final visualization:
 While incorporating the feedback, I also decided to include the source of data with the title, and decided to include an x-axis title which serves as a disclaimer that the points are plotted at the Congress session's start year. The original visualization's stepped representation managed to avoid this problem altogether.
 ![](https://raw.githubusercontent.com/sancsaini/StoryTellingWithData/master/Women%20Representation%20by%20Party.png)
+
