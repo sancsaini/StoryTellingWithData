@@ -60,3 +60,10 @@ Critique below. The chart:
 * captures information for all data years
 * while it captures information for all OECD member nations, a user can only track the trends for four countries (Japan, Italy, Greece and USA)
 * while reference lines help the user get a sense of how nations are doing on this indicator, it still doesn't convey the actual magnitudes
+
+## Homework 3 - Women Representation by Party (in US House of Representatives)
+### Original visualization
+The original visualization was from a [tweet](https://twitter.com/Spelk24/status/1049054474411675658) by a student who was performing exploratory data analysis on data present in a report by Congressional Research Service [linked here](https://fas.org/sgp/crs/misc/RL30261.pdf)
+[](https://pbs.twimg.com/media/Do79etiUcAA9IgS.jpg)
+
+
