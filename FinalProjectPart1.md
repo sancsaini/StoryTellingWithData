@@ -14,4 +14,6 @@ The Sunshine Act mandates drug manufacturers to report their data to CMS, which 
 * [Research Payments](https://openpaymentsdata.cms.gov/dataset/Research-Payment-Data-Detailed-Dataset-2017-Report/pg9r-tqp5)
 
 ### Method and Medium
-The project will be Shorthand-based with only support for Desktop version. It will include visualizations mainly from Tableau. 
+The project will be Shorthand-based.
+I'm only planning support for Desktop screens. The project will include some interactive maps along with visualizations mainly created using Tableau. I'll check with my test users if I should implement the functionality to search for payments made on a particular doctor on my own, or simply provide a link to CMS' search functionality. The former will be better since that will enable me to create custom visualizations to plot the expenses made on searched doctors. 
+Since Shorthand uses images, I'll search for relevant images through Getty Images. I'll try to avoid photos of the Obama administration (which passed the Affordable Care Act which the Sunshine Act was a part of) inorder to avoid inducing party-based opinions on my story.
