@@ -8,7 +8,6 @@ The original visualization was from a [tweet](https://twitter.com/Spelk24/status
 While the visualization is a very beautiful one to begin with, it has eliminated some information that may add to a reader's understanding:
 * additional labels for some of the prior years to give numbers for prior years
 * an indication for what the maximum percentage representation for a particular party was and when it happened
-####
 To this end, I made the following wireframe:
 ![](https://raw.githubusercontent.com/sancsaini/StoryTellingWithData/master/Wireframe.JPG)
 
