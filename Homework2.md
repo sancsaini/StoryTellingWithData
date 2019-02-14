@@ -17,7 +17,9 @@ The Japanese band falls in 2017 because the underlying dataset didn't report any
 Japan was the only OECD nation to have a debt to GDP ratio of over 150% b/w 2002 - 2007, and it crossed the 200% ratio mark in 2008. It is currently the only OECD nation above the 200% mark, even beating Greece which is renowned for its fragile financial conditions.  
 
 ## Step 4 - Note on how the visualizations compare:
-All the following three visualizations work with the same dataset taken from [OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 28 January 2019)](https://data.oecd.org/gga/general-government-debt.htm). The first visualization works with a subset of the data only focusing on the year 2015. 
+All the following three visualizations work with the same dataset taken from [OECD (2019), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 28 January 2019)](https://data.oecd.org/gga/general-government-debt.htm).
+#####
+The first visualization works with a subset of the data only focusing on the year 2015. 
 The dataset gives out the Debt to GDP ratio as a percentage (debt as a percentage of the GDP) for OECD's member nations from 1995-2017 at a yearly level. Usually, Debt to GDP ratio (or percentage) is supposed to be an indicator of a nation's ability to pay its debts, but there isn't an ideal range for the indicator as different countries can have different capabilities to repay their debts.
 
 ### Comments on first chart (present on OECD's website)
