@@ -9,6 +9,12 @@
 ### Background
 The Sunshine Act requires applicable manufacturers to report payments or transfers of value made on doctors or teaching hospitals. This project captures the volume of payments being made on doctors and analyses this information at various levels. 
 
+### Target Audience for the project
+College students (patients) availing US healthcare. Basic knowledge of navigating websites taken as given.
+
+### Approach to identify participants
+
+
 ### Metrics
 * Whether participants understand what the site is about
 * Whether participants seem interested in the subject matter
@@ -21,7 +27,7 @@ The Sunshine Act requires applicable manufacturers to report payments or transfe
 * In-person
 
 ### Script
-Script is [here](./ScriptForUserTesting.md).
+Script for testing is enclosed [here](./ScriptForUserTesting.md).
 
 ### Test asset
 The following printout was used to perform the test.
