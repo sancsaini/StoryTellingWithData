@@ -6,13 +6,13 @@
 ## Part 2
 ### Process
 Initial
-[](./Part_2_Iteration_1.png)
+![](./Part_2_Iteration_1.png)
 
 
 ### Project Structure
 The project will begin with an introduction to Sunshine Act, w
 Initial
-[](./Part_2_Iteration_2.png)
+![](./Part_2_Iteration_2.png)
 
 ### The data
 The Sunshine Act mandates drug manufacturers to report their d
