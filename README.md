@@ -13,12 +13,13 @@ I want to learn the following from the course:
 
 # Portfolio
 
+### Final Project
+* Part 1: Linked on [this link](./FinalProjectPart1.md).
+* Part 2: Linked on [this link](./FinalProjectPart2.md).
+
 ### Homeworks
 * Homework 2 - OECD Visualization: [Linked here](./Homework2.md)
 * Homework 3 - Women Representation by Party (in US House of Representatives): [Linked here](./Homework3.md)
-
-### Final Project
-* Part 1: Linked on [this link](./FinalProjectPart1.md).
 
 ### Tutorials
 [Link](./Tutorials.md) to some of my tutorial exercises.
