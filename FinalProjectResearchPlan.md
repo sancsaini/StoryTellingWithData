@@ -1,9 +1,9 @@
 ## Research Plan
 ### Goals / Questions
-| Goals |	Questions |
-| ------ | -------- |
-| Evaluate web page |	Do people unfamiliar with CMS' reporting program understand what the page is about? |
-| Evaluate participant's takeaways | Does the webpage generate interest/ curiosity to check information on their doctors? |
+|Goals |	Questions |
+|------ | -------- |
+|Evaluate web page |	Do people unfamiliar with CMS' reporting program understand what the page is about? |
+|Evaluate participant's takeaways | Does the webpage generate interest/ curiosity to check information on their doctors? |
 | Prioritize what to fix |	What problems are most severe? |
 
 ### Background
