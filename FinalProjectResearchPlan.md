@@ -1,10 +1,9 @@
 ## Research Plan
 ### Goals / Questions
-|Goals |	Questions |
-|------ | -------- |
-|Evaluate web page |	Do people unfamiliar with CMS' reporting program understand what the page is about? |
-|Evaluate participant's takeaways | Does the webpage generate interest/ curiosity to check information on their doctors? |
-| Prioritize what to fix |	What problems are most severe? |
+**Goals**: _Questions_
+* **Evaluate web page**: _Do people unfamiliar with CMS' reporting program understand what the page is about?_
+* **Evaluate participant's takeaways**: _Does the webpage generate interest/ curiosity to check information on their doctors?_
+* **Prioritize what to fix**: _What problems are most severe?_
 
 ### Background
 The Sunshine Act requires applicable manufacturers to report payments or transfers of value made on doctors or teaching hospitals. This project captures the volume of payments being made on doctors and analyses this information at various levels. 
@@ -13,7 +12,7 @@ The Sunshine Act requires applicable manufacturers to report payments or transfe
 College students (patients) availing US healthcare. Basic knowledge of navigating websites taken as given.
 
 ### Approach to identify participants
-
+Heinz College students from different program backgrounds, particularly with non-Healthcare backgrounds to avoid basic knowledge of the industry set-up from informing/ biasing their inputs/ opinions. 
 
 ### Metrics
 * Whether participants understand what the site is about
