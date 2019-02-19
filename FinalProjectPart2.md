@@ -29,5 +29,10 @@ Consolidated the feedback provided as below:
 * Suggestions around Mean Payments per State visual: **Action item:** Incorporate all of these
    1) Map should display all states including Hawaii (1/5)
    2) Can color scheme to a two-color gradient with green for mean values below the national mean and red for values above it (2/5)
-   3) Provide more information on mouse-over on a particular state (2/5)
-* 2/5 users didn't understand the y-axis for the payment range graph. **Action item:** 
+   3) Provide more information on mouse-over on a particular state (2/5) | display physician density (1/5)
+   4) Add 'per physician' at relevant places.
+* 2/5 users didn't understand the y-axis for the payment range graph. **Action item:** TBD, possible conversion to histogram
+* 2/5 users asked if the region being looked at was US. **Action item:** Mention US in the beginning
+* 3/5 users wanted information about the payment categories, and 1/5 users suggested that information about the Sunshine Act should be present on the website (but not necessarily on the first page). **Action item:** TBD. Possible inclusion of a second tab on website.
+
+
