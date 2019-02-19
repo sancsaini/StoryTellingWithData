@@ -35,4 +35,11 @@ Consolidated the feedback provided as below:
 * 2/5 users asked if the region being looked at was US. **Action item:** Mention US in the beginning
 * 3/5 users wanted information about the payment categories, and 1/5 users suggested that information about the Sunshine Act should be present on the website (but not necessarily on the first page). **Action item:** TBD. Possible inclusion of a second tab on website.
 
+### Revised wireframe
+As below:
+![](./RevisedFile1.jpg)
+![](./RevisedFile2.jpg)
 
+TBD:
+* Functionality to search for payments on a specific doctor.
+* Inclusion of a second tab giving context for Sunshine Act.
