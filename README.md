@@ -16,6 +16,7 @@ I want to learn the following from the course:
 ### Final Project
 * Part 1: Linked on [this link](./FinalProjectPart1.md).
 * Part 2: Linked on [this link](./FinalProjectPart2.md).
+* Part 3: Linked on [this link](./FinalProjectPart3.md).
 
 ### Homeworks
 * Homework 2 - OECD Visualization: [Linked here](./Homework2.md)
