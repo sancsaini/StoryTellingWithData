@@ -1,5 +1,5 @@
 
-## Project Name: How much do pharmaceutical companies pay your physicians?
+## Project Name: How much do pharmaceutical companies spend on your physicians?
 
 (Access Part 1 and Part 2 using these links: [Part 1](./FinalProjectPart1.md) and [Part 2](./FinalProjectPart2.md).)
 
